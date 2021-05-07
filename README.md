@@ -4,3 +4,4 @@
 [![workflow](https://github.com/shakshin-01/frontend-project-lvl1/actions/workflows/node.js.yml/badge.svg)](https://github.com/shakshin-01/frontend-project-lvl1/actions/workflows/node.js.yml)
 [![asciicast](https://asciinema.org/a/cBqzNfsaAtvKZOt9e7WzX2jUK.svg)](https://asciinema.org/a/cBqzNfsaAtvKZOt9e7WzX2jUK)
 [![asciicast](https://asciinema.org/a/oqEZxy3LJVKCzKSFu6xKXg3NE.svg)](https://asciinema.org/a/oqEZxy3LJVKCzKSFu6xKXg3NE)
+[![asciicast](https://asciinema.org/a/cSXJ6HuWMxuvlK4XtR81ZneBQ.svg)](https://asciinema.org/a/cSXJ6HuWMxuvlK4XtR81ZneBQ)
