@@ -2,7 +2,7 @@ import { cons } from '@hexlet/pairs';
 
 import startGameEngine from '../index.js';
 
-import getRandomNum from '../utils.js';
+import getRandomNumber from '../utils.js';
 
 const gameDescription = 'What is the result of the expression?';
 
@@ -22,9 +22,9 @@ const calculateNumbers = (firstNum, secondNum, mathOperator) => {
 };
 
 const getQuestionAndAnswer = () => {
-  const firstNumber = getRandomNum(0, 100);
-  const secondNumber = getRandomNum(0, 100);
-  const mathOperator = mathOperators[getRandomNum(0, mathOperators.length)];
+  const firstNumber = getRandomNumber(0, 100);
+  const secondNumber = getRandomNumber(0, 100);
+  const mathOperator = mathOperators[getRandomNumber(0, mathOperators.length)];
   const question = `${firstNumber} ${mathOperator} ${secondNumber}`;
   const answer = String(calculateNumbers(firstNumber, secondNumber, mathOperator));
   return cons(question, answer);
