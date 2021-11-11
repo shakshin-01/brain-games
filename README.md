@@ -15,8 +15,6 @@ $ sudo apt-get install node
 
 ```sh
 $ make install
-$ make publish
-$ npm link
 ```
 
 ## Usage
